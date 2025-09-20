@@ -9,28 +9,28 @@ const productos = [
         image: "https://m.media-amazon.com/images/I/71cXdhZg-BL.jpg" 
     },
     { 
-        titulo: "Mouse", 
-        desc: "Inalámbrico", 
-        price: 29.99, 
-        image: "https://example.com/images/mouse.jpg" 
+        titulo: "Mouse RAZER BASILISK V3", 
+        desc: "Ratón para juegos ultrapersonalizable con 10+1 botones programables, una rueda inclinable Razer™ HyperScroll inteligente y una buena dosis de Razer Chroma™", 
+        price: 472000, 
+        image: "https://assets2.razerzone.com/pages/basilisk-v3-4D578898E8144Le8da21dde32b7a9f5f/basiliskv3_button-config_ApexLegends.jpg" 
     },
     { 
-        titulo: "Teclado", 
-        desc: "Mecánico RGB", 
-        price: 79.99, 
-        image: "https://example.com/images/keyboard.jpg" 
+        titulo: "Logitech G PRO X 2 LIGHTSPEED Wireless", 
+        desc: "Los Logitech G PRO X 2 LIGHTSPEED Wireless son la nueva generación de auriculares para gaming Logitech G PRO X WIRELESS LIGHTSPEED . Estos auriculares actualizados incorporan funciones adicionales como Bluetooth y compatibilidad con cable, una batería con una duración mejorada y características de comodidad como auriculares giratorios. Logitech también ha reajustado el sonido para ofrecer graves más potentes, lo que aporta mayor impacto, vibración y potencia a tu juego.", 
+        price: 1100000, 
+        image: "https://i.rtings.com/assets/products/9Ep3Q2x3/logitech-g-pro-x-2-lightspeed-wireless/design-medium.jpg?format=auto" 
     },
     { 
-        titulo: "Monitor", 
-        desc: "27 pulgadas 4K", 
-        price: 349.99, 
-        image: "https://example.com/images/monitor.jpg" 
+        titulo: "Cooler Master Masteraccessory MP750", 
+        desc: " Alfombrilla de mouse suave M con superficie resistente al agua y bordes RGB gruesos", 
+        price: 189900, 
+        image: "https://m.media-amazon.com/images/I/51BrQvzqN2L._AC_SY355_.jpg" 
     },
     { 
-        titulo: "Auriculares", 
-        desc: "Cancelación de ruido", 
-        price: 129.99, 
-        image: "https://example.com/images/headphones.jpg" 
+        titulo: "Licencia Windows 11 Pro", 
+        desc: "Windows 11 Pro ofrece seguridad avanzada, rendimiento optimizado y herramientas empresariales. Licencia digital vitalicia para 1 PC.", 
+        price: 139900, 
+        image: "https://tauretcomputadores.com/images/products/Product_202301201805592070969202.Windows.webp" 
     }
 ];
 
